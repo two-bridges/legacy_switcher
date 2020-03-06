@@ -1,0 +1,11 @@
+{
+    "name": "legacy_switcher",
+    "version": "0.0.1",
+    "description": "resurrected this switcher from an old theme",
+    "main": "plugins_switcher.js",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:two-bridges/legacy_switcher.git"
+    },
+    "license": "MIT"
+}
